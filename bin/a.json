@@ -1,0 +1,24 @@
+{
+  "20124607": [
+    {
+      "entries": [
+        {
+          "division": "IV",
+          "wins": 402,
+          "playerOrTeamName": "RVN Nefe Senpai",
+          "isFreshBlood": false,
+          "isInactive": false,
+          "isHotStreak": false,
+          "isVeteran": true,
+          "leaguePoints": 79,
+          "losses": 383,
+          "playstyle": "SQUAD",
+          "playerOrTeamId": "20124607"
+        }
+      ],
+      "tier": "PLATINUM",
+      "name": "Zilean's Commandos",
+      "queue": "RANKED_SOLO_5x5"
+    }
+  ]
+}
